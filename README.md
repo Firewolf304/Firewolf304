@@ -20,7 +20,7 @@ Hi there, i`m just jun
     Elementary: tensorflow, django 
     Learning: postgreSQL, mysql, SHA512, clang, cmake, social engineering, soft engineering
 #### soft:
-    Clion, PyCharm, Rider, Intellij Idea, Gimp, Photoshop, Microsoft Excel/Word/Access
+    Clion, PyCharm, Rider, Intellij Idea, Gimp, Photoshop, Microsoft Excel/Word/Access, Vegas
     
     
     
