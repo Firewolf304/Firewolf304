@@ -3,11 +3,12 @@ Hi there, i`m just jun
 
 <b align="center">linux</b>
 
-    OS: debian, arch, ubuntu, manjaro
+    OS: debian, arch, ubuntu, manjaro, redhat
     DE: gnome, KDE
     Shell: bash, zsh
     Terminal: konsole, alacritty
     Theme: Wallpaper Engine, gnome-shell
+    PM: pacman, apt, flatpack, snap, rpm, dpkg 
 <b align="center">windows</b>
 
     OS: Windows 98, Windows XP, Windows 7, Windows 10
