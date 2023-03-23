@@ -20,7 +20,7 @@ Hi there, i`m just jun
 <b align="center">skills</b>
 
     Advanced: .net, wireless-tools, bruteforse, vkbottle, VKNET, json, inet.h, TcpListener, WPF, Win64, 
-    Console Application
+    Console Application, pixel painter
     Middle: openCV, emguCV, http/https Response, webparse, python-telegram-bot, arduino, XML, HTML, git
     Elementary: tensorflow, django 
     Learning: postgreSQL, mysql, SHA512, clang, cmake, social engineering, soft engineering
