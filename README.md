@@ -18,7 +18,7 @@ Hi there, i`m just jun
     C, C++, C#, Python
 <b align="center">skills</b>
 
-    Advanced: .net, wireless-tools, bruteforse, vkbottle, VKNET, json, inet.h, TcpListener
+    Advanced: .net, wireless-tools, bruteforse, vkbottle, VKNET, json, inet.h, TcpListener, WPF, Win64, Console Application
     Middle: openCV, emguCV, http/https Response, webparse, python-telegram-bot, arduino, XML, HTML, git
     Elementary: tensorflow, django 
     Learning: postgreSQL, mysql, SHA512, clang, cmake, social engineering, soft engineering
