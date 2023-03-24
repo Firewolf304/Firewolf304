@@ -24,7 +24,7 @@ Hi there, i`m just jun
     Middle: openCV, emguCV, http/https Response, webparse, python-telegram-bot, arduino, XML, HTML, git
     Elementary: tensorflow, django 
     Learning: postgreSQL, mysql, SHA512, clang, cmake, social engineering, soft engineering
-<b align="center">soft</b>
+<b align="center">softs</b>
 
     Clion, PyCharm, Rider, Intellij Idea, Gimp, Photoshop, Microsoft Excel/Word/Access, Vegas
     
