@@ -21,7 +21,7 @@ Hi there, i`m just jun
 
     Advanced: .net, wireless-tools, bruteforse, vkbottle, VKNET, json, inet.h, TcpListener, WPF, Win64, 
     Console Application, pixel painter
-    Middle: openCV, emguCV, http/https Response, webparse, python-telegram-bot, arduino, XML, HTML, git
+    Middle: openCV, emguCV, http/https Response, webparse, aiogram, arduino, XML, HTML, git
     Elementary: tensorflow, django 
     Learning: postgreSQL, mysql, SHA512, clang, cmake, social engineering, soft engineering
 <b align="center">softs</b>
