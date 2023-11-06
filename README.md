@@ -6,7 +6,7 @@ Hi there, i`m just jun
     OS: debian, arch, ubuntu, manjaro, redhat
     DE: gnome, KDE
     Shell: bash, zsh
-    Terminal: konsole, alacritty
+    Terminal: konsole, alacritty, wezterm
     Theme: Wallpaper Engine, gnome-shell
     PM: pacman, apt, flatpack, snap, rpm, dpkg 
 <b align="center">windows</b>
