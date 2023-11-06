@@ -26,7 +26,7 @@ Hi there, i`m just jun
     Learning: postgreSQL, mysql, SHA512, clang, cmake, social engineering, soft engineering
 <b align="center">softs</b>
 
-    Clion, PyCharm, Rider, Intellij Idea, Gimp, Photoshop, Microsoft Excel/Word/Access, Vegas
+    Clion, PyCharm, Rider, Intellij Idea
     
     
     
