@@ -19,7 +19,7 @@ Hi there, i`m just jun
     C, C++, C#, Python3
 <b align="center">softs</b>
 
-    Clion, PyCharm, Rider, Intellij Idea
+    Clion, PyCharm, Rider, Intellij Idea, Visual Studio
     
     
     
