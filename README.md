@@ -16,7 +16,7 @@ Hi there, i`m just jun
     Assembly: Atlas 
 <b align="center">languages</b>
 
-    C, C++, C#, Python3, JavaScript
+    C, C++, C#, Python3, JavaScript, PHP
 <b align="center">softs</b>
 
     Clion, PyCharm, Rider, Intellij Idea, Visual Studio
