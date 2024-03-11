@@ -8,7 +8,7 @@ Hi there, i`m just jun
     Shell: bash, zsh
     Terminal: konsole, alacritty, wezterm
     Theme: Wallpaper Engine, gnome-shell
-    PM: pacman, apt, flatpack, snap, rpm, dpkg 
+    PM: pacman, apt, flatpack, snap, rpm, dpkg, brew
 <b align="center">windows</b>
 
     OS: Windows 98, Windows XP, Windows 7, Windows 10
