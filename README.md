@@ -38,7 +38,7 @@
 ![jquery](https://img.shields.io/badge/jquery-%25?style=for-the-badge&logo=jquery&logoColor=fff&color=c77802)
 ![drogon](https://img.shields.io/badge/drogon-%25?style=for-the-badge&logoColor=fff&color=000)
 ![opencv](https://img.shields.io/badge/opencv-%25?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8)
-![dotnet](https://img.shields.io/badge/dotnet-%25?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4)
+![aspnet](https://img.shields.io/badge/dotnet-%25?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4)
 
 <br><b align="center">languages</b>
 
