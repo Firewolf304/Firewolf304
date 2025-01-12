@@ -1,6 +1,6 @@
 #####
 ```Hi there ```<br><br>
-<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firewolf304&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a> <br>
+<a>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firewolf304&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</a>
 <a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firewolf304&size_weight=1&count_weight=0.5&layout=compact&theme=radical)</a> <br>
 
 <br><b align="center">linux</b>
