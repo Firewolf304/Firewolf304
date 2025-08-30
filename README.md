@@ -22,33 +22,41 @@
     <br>
 </p>
 
-<br><b align="center">skills</b>
+# Develop skills
 
-![git](https://img.shields.io/badge/git-%25781f1f?style=for-the-badge&logo=git&logoColor=fff&color=781f1f)
-![postgresql](https://img.shields.io/badge/postgresql-%25?style=for-the-badge&logoColor=000&logo=postgresql&color=abffe6)
+<h3><b>Libs</b></h3>
+
 ![boost](https://img.shields.io/badge/Boost-%25?style=for-the-badge&logoColor=fff&color=00157f)
 ![spring](https://img.shields.io/badge/spring-%25?style=for-the-badge&logo=spring&logoColor=000&color=69ffa5)
 ![cuda](https://img.shields.io/badge/cuda-%25?style=for-the-badge&logo=nvidia&logoColor=fff&color=006328)
 ![opencl](https://img.shields.io/badge/opencl-%25?style=for-the-badge&logoColor=fff&color=ff4258)
-![mariadb](https://img.shields.io/badge/mariadb-%25?style=for-the-badge&logo=mariadb&logoColor=fff&color=ff001e)
-![mysql](https://img.shields.io/badge/mysql-%25?style=for-the-badge&logo=mysql&logoColor=fff&logoColor=fff&color=28274a)
 ![flask](https://img.shields.io/badge/flask-%25?style=for-the-badge&logo=flask&logoColor=fff&color=787878)
-![stl](https://img.shields.io/badge/STL-%25?style=for-the-badge&logoColor=fff&color=00599C)
-![docker](https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&logoColor=fff&color=2496ED)
 ![jquery](https://img.shields.io/badge/jquery-%25?style=for-the-badge&logo=jquery&logoColor=fff&color=c77802)
-![drogon](https://img.shields.io/badge/drogon-%25?style=for-the-badge&logoColor=fff&color=000)
 ![opencv](https://img.shields.io/badge/opencv-%25?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8)
-![aspnet](https://img.shields.io/badge/aspnet-%25?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4)
+![stl](https://img.shields.io/badge/STL-%25?style=for-the-badge&logoColor=fff&color=00599C)
 
-<br><b align="center">languages</b>
+<h3><b>Frameworks</b></h3>
+
+![spring](https://img.shields.io/badge/spring-%25?style=for-the-badge&logo=spring&logoColor=000&color=69ffa5)
+![drogon](https://img.shields.io/badge/drogon-%25?style=for-the-badge&logoColor=fff&color=000)
+
+<h3><b>Langs</b></h3>
 
 ![c](https://img.shields.io/badge/c-%25?style=for-the-badge&logo=c&logoColor=fff&color=A8B9CC)
 ![c++](https://img.shields.io/badge/c%2B%2B-%25?style=for-the-badge&logo=c%2B%2B&logoColor=fff&color=00599C)
-![dotnet](https://img.shields.io/badge/dotnet-%25?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4)
+![csharp](https://img.shields.io/badge/csharp-%25?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4)
 ![php](https://img.shields.io/badge/php-%25?style=for-the-badge&logo=php&logoColor=fff&color=777BB4)
 ![python](https://img.shields.io/badge/Python-%25?style=for-the-badge&logo=Python&logoColor=fff&color=3776AB)
 ![javascript](https://img.shields.io/badge/JS-%25?style=for-the-badge&logo=javascript&logoColor=fff&color=F7DF1E)
 ![java](https://img.shields.io/badge/Java-%25?style=for-the-badge&logoColor=fff&color=e5a340)
+
+# DevOps skills
+
+<h3><b>Virtualization</b></h3>
+
+![proxmox](https://img.shields.io/badge/Proxmox-%2525?style=for-the-badge&logo=proxmox&color=31200e)
     
-    
-    
+
+
+
+
