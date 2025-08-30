@@ -34,11 +34,14 @@
 ![jquery](https://img.shields.io/badge/jquery-%25?style=for-the-badge&logo=jquery&logoColor=fff&color=c77802)
 ![opencv](https://img.shields.io/badge/opencv-%25?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8)
 ![stl](https://img.shields.io/badge/STL-%25?style=for-the-badge&logoColor=fff&color=00599C)
+![fastapi](https://img.shields.io/badge/FastAPI-%25?style=for-the-badge&logo=fastapi&logoColor=fff&color=#009688)
+![pyqt](https://img.shields.io/badge/PyQT-%25?style=for-the-badge&logoColor=f2eb31&color=3776AB)
 
 <h3><b>Frameworks</b></h3>
 
 ![spring](https://img.shields.io/badge/spring-%25?style=for-the-badge&logo=spring&logoColor=000&color=69ffa5)
 ![drogon](https://img.shields.io/badge/drogon-%25?style=for-the-badge&logoColor=fff&color=000)
+![aspnetcore](https://img.shields.io/badge/AspNet%20Core-%2525?style=for-the-badge&logo=.NET&color=7252e5)
 
 <h3><b>Langs</b></h3>
 
