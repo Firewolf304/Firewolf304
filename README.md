@@ -46,7 +46,7 @@
 ![c++](https://img.shields.io/badge/c%2B%2B-%25?style=for-the-badge&logo=c%2B%2B&logoColor=fff&color=00599C)
 ![csharp](https://img.shields.io/badge/csharp-%25?style=for-the-badge&logo=.net&logoColor=fff&color=512BD4)
 ![php](https://img.shields.io/badge/php-%25?style=for-the-badge&logo=php&logoColor=fff&color=777BB4)
-![python](https://img.shields.io/badge/Python-%25?style=for-the-badge&logo=Python&logoColor=fff&color=3776AB)
+![python](https://img.shields.io/badge/Python-%25?style=for-the-badge&logo=Python&logoColor=f2eb31&color=3776AB)
 ![javascript](https://img.shields.io/badge/JS-%25?style=for-the-badge&logo=javascript&logoColor=fff&color=F7DF1E)
 ![java](https://img.shields.io/badge/Java-%25?style=for-the-badge&logoColor=fff&color=e5a340)
 
@@ -55,7 +55,24 @@
 <h3><b>Virtualization</b></h3>
 
 ![proxmox](https://img.shields.io/badge/Proxmox-%2525?style=for-the-badge&logo=proxmox&color=31200e)
-    
+![ovirt](https://img.shields.io/badge/Ovirt-%2525?style=for-the-badge&logo=Ovirt&color=96d058)
+![qemu](https://img.shields.io/badge/QEMU-%2525?style=for-the-badge&logo=QEMU&color=000)
+
+<h3><b>Containerization</b></h3>
+
+![docker](https://img.shields.io/badge/Docker-%2525?style=for-the-badge&logo=Docker&color=002c4e)
+
+<h3><b>DB</b></h3>
+
+<b style="font-size:12px">SQL: </b>
+<img src="https://img.shields.io/badge/mariadb-%25?style=for-the-badge&logo=mariadb&logoColor=fff&color=ff001e">
+<img src="https://img.shields.io/badge/mysql-%25?style=for-the-badge&logo=mysql&logoColor=fff&color=28274a">
+<img src="https://img.shields.io/badge/postgresql-%25?style=for-the-badge&logo=postgresql&logoColor=000&color=abffe6">
+<br><b style="font-size:12px">NoSQL: </b>
+<img src="https://img.shields.io/badge/MongoDB-%2525?style=for-the-badge&logo=MongoDB&color=fff">
+<img src="https://img.shields.io/badge/Redis-%2525?style=for-the-badge&logo=Redis&color=474747">
+
+
 
 
 
