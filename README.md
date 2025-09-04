@@ -12,7 +12,7 @@
     <code><img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png"></code>
     <code><img width="3%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></code>
     <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/ru/thumb/8/86/Astra_Linux.png/800px-Astra_Linux.png"></code>
-    <code><img width="3%" src="https://static-00.iconduck.com/assets.00/openwrt-icon-441x512-qp61dzma.png"></code>
+    <code><img width="3%" src="https://images.icon-icons.com/3913/PNG/512/openwrt_logo_icon_248288.png"></code>
     <br>
     <a>DE: </a>
     <code><img width="3%" src="https://www.vectorlogo.zone/logos/gnome/gnome-icon.svg"></code>
