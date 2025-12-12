@@ -53,7 +53,7 @@
 ![javascript](https://img.shields.io/badge/JS-%25?style=for-the-badge&logo=javascript&logoColor=fff&color=F7DF1E)
 ![java](https://img.shields.io/badge/Java-%25?style=for-the-badge&logoColor=fff&color=e5a340)
 
-# DevOps skills
+# SRE skills
 
 <h3><b>Virtualization</b></h3>
 
